@@ -1,3 +1,3 @@
 # Blockchain-based-voting-contract
 
-This is blockchain bases voting contract :)))
+This is blockchain based voting contract :)))
